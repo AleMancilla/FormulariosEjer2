@@ -1,0 +1,13 @@
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/bin/Debug/netcoreapp3.1/Formulario de Evaluacion
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/bin/Debug/netcoreapp3.1/Formulario de Evaluacion.deps.json
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/bin/Debug/netcoreapp3.1/Formulario de Evaluacion.runtimeconfig.json
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/bin/Debug/netcoreapp3.1/Formulario de Evaluacion.runtimeconfig.dev.json
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/bin/Debug/netcoreapp3.1/Formulario de Evaluacion.dll
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/bin/Debug/netcoreapp3.1/Formulario de Evaluacion.pdb
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/obj/Debug/netcoreapp3.1/Formulario de Evaluacion.csprojAssemblyReference.cache
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/obj/Debug/netcoreapp3.1/Formulario de Evaluacion.AssemblyInfoInputs.cache
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/obj/Debug/netcoreapp3.1/Formulario de Evaluacion.AssemblyInfo.cs
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/obj/Debug/netcoreapp3.1/Formulario de Evaluacion.csproj.CoreCompileInputs.cache
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/obj/Debug/netcoreapp3.1/Formulario de Evaluacion.dll
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/obj/Debug/netcoreapp3.1/Formulario de Evaluacion.pdb
+/home/alejandro/Desktop/Practicas/C#/Formulario de Evaluacion/obj/Debug/netcoreapp3.1/Formulario de Evaluacion.genruntimeconfig.cache

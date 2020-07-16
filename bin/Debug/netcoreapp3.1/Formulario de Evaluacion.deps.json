@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Formulario de Evaluacion/1.0.0": {
+        "runtime": {
+          "Formulario de Evaluacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Formulario de Evaluacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
